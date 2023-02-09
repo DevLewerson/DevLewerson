@@ -5,10 +5,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_Lewis/featured)
 
 ![Lewersons GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLewerson&show_icons=true&theme=tokyonight)
-
-Linguagens que mais utilizo:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLewerson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLewerson&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Front End:
 <div style="display: inline_block">
