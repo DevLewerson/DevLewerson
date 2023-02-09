@@ -1,5 +1,5 @@
-## Olá! Me chamo Lewerson Darwinch 👋
-### Sou Desenvolvedor Full Stack 👨‍💻
+## Hello! My name is Lewerson Darwinch 👋
+### I'm a Full Stack Developer 👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewerson-darwinch-55866a265/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_Lewis/featured)
