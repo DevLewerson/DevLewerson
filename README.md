@@ -2,7 +2,6 @@
 ### I'm a Full Stack Developer 👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewerson-darwinch-55866a265/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dev_Lewis/featured)
 
 ![Lewersons GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLewerson&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLewerson&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
